@@ -1,7 +1,7 @@
 #!/bin/bash
 
 E3_BIN=/epics/base-7.0.2/require/3.0.4/bin
-IOC=labs-utg-se-cam3
+IOC=labs-utg-se-p5k01
 IOC_PATH=/epics/iocs/cmds/$IOC
 IOC_CMD=st.$IOC.cmd
 PORT=2005
