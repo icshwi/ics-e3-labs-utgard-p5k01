@@ -6,8 +6,8 @@
 #@type STRING
 #Prefix for EPICS PVs.
 
-require pace5000,develop
-require stream,2.7.14p
+require pace5000,0.0.1
+require stream,2.8.8
 require asyn,4.33.0
 
 epicsEnvSet("SYSTEM", "SES-PREMP:")
