@@ -12,7 +12,7 @@ require asyn,4.33.0
 
 epicsEnvSet("SYSTEM", "SES-PREMP:")
 epicsEnvSet("IPADDR", "10.4.0.201")
-epicsEnvSet("DEVICE", "Pctrl-PACE5000-001:")
+epicsEnvSet("DEVICE", "Pctrl-PACE5000-01:")
 epicsEnvSet("ASYNPORT", "$(SYSTEM)-asyn-port")
 
 
